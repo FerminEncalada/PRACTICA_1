@@ -1,0 +1,29 @@
+[
+    {
+        "factura": {
+            "numero": "37484",
+            "ruc": "354636",
+            "monto": 0.05,
+            "tipo_ruc": "profesional"
+        },
+        "retencion": 0.005000000000000001
+    },
+    {
+        "factura": {
+            "numero": "37484",
+            "ruc": "354636",
+            "monto": 0.31,
+            "tipo_ruc": "profesional"
+        },
+        "retencion": 0.031
+    },
+    {
+        "factura": {
+            "numero": "37484",
+            "ruc": "354636",
+            "monto": 0.15,
+            "tipo_ruc": "profesional"
+        },
+        "retencion": 0.015
+    }
+]
